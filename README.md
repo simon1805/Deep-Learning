@@ -1,10 +1,6 @@
 # Prüfungsaufgabe 1: Deep-Learning
 ## Starten der Umgebung
-Das Notebook kann per mybinder (https://mybinder.org/) geöffnet werden.
-Folgende Daten müssen in die Felder eingetragen werden:
-- Github Repo: https://github.com/simon1805/Deep-Learning.git
-- Git ref: main
-- File to open: index.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simon1805/Deep-Learning/main?filepath=index.ipynb)
 ## Dokumentation
 - Ziel ist es, Banknoten anhand von Wellenlet-transformierten Bildmerkmalen als authentisch oder gefälscht zu klassifizieren.
 - Der Datensatz beinhaltet vier kontinuierliche Feature (Varianz, Skewness, Kurtosis, Entropie) und ein binäres Klassenlabel.
